@@ -1,25 +1,39 @@
-# Hey there, I’m José (aka zleao) 👋
+# Hi there! 👋 I'm José Pereira (aka zleao)
 
-💻 Senior App Engineer @ [Medialesson GmbH](https://medialesson.de) (Germany)  
-⚡ 17+ years building robust mobile & desktop apps with **C#**, **.NET MAUI**, **Xamarin**, **Azure**, and more  
-🎯 Love turning complex problems into simple, scalable, and high-performing solutions  
+Senior .NET Software Engineer with **18+ years** of experience in enterprise software development, mobile applications, and cloud-native solutions.
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ What I’m into
-- **.NET MAUI** & **Xamarin** (yes, still love it ❤️)  
-- Cloud stuff with **Azure** (performance, scalability, reliability, security)  
-- Helping teams grow with Agile, DevOps, and a sprinkle of Scrum ☕
+**Backend:** C# • .NET Core • .NET 8 • ASP.NET Core • Entity Framework • REST APIs • Microservices  
+**Frontend:** .NET MAUI • Xamarin • WPF • Angular • Blazor/Razor  
+**Cloud & DevOps:** Azure • Azure DevOps • CI/CD • Git • Docker  
+**Architecture:** MVVM • MVC • CQRS • Event Sourcing • Design Patterns
 
----
+## 🔬 Open Source Featured Repositories
 
-## 📌 Featured Projects
-- **[zoft.MauiExtensions.AutoCompleteEntry](https://github.com/zleao/zoft.MauiExtensions.AutoCompleteEntry)** – slick autocomplete for .NET MAUI  
-- **[zoft.MauiExtensions](https://github.com/zleao/zoft.MauiExtensions)** – handy utilities for .NET MAUI projects  
-- **[MauiChat](https://github.com/zleao/MauiChat)** – lightweight chat app sample developed with .NET MAUI  
-- **[RTTicTacToe](https://github.com/zleao/RTTicTacToe)** – real-time game with CQRS/ES & SignalR  
+- **[zoft.MauiExtensions](https://github.com/zleao/zoft.MauiExtensions)** - Powerful extension library for .NET MAUI development
+- **[RTTicTacToe](https://github.com/zleao/RTTicTacToe)** - Real-time multiplayer game showcasing CQRS, Event Sourcing, SignalR, and .NET MAUI
+- **[MvvmCross-Extensions](https://github.com/zleao/MvvmCross-Extensions)** - Utilities for MvvmCross projects
+- **[zoft.MauiExtensions.AutoCompleteEntry](https://github.com/zleao/zoft.MauiExtensions.AutoCompleteEntry)** - Advanced autocomplete control for MAUI
 
----
+## 💼 Professional Experience
+
+**Senior App Engineer** @ Medialesson GmbH (2016 - Present)
+- Software Architect | Full-Stack Developer | Developer Code of Conduct Advocate
+- Mobile app development (Xamarin, .NET MAUI)
+- Full-stack solutions (Angular, ASP.NET Core)
+- Backend development (.NET 6, .NET 8)
+- Azure cloud solutions
+
+**Previous Roles:**
+- .NET Mobile Developer @ Moving2u (2013-2016)
+- .NET Consultant @ Unisys (2007-2012)
+
+## 🏆 Certifications
+
+- Professional Scrum Master (PSM I)
+- Professional Scrum Product Owner (PSPO I)
+- Xamarin Certified Developer
 
 ## 📊 GitHub Stats
 
@@ -32,30 +46,21 @@
     alt="Top Languages" width="35%" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zleao&hide_border=true&mode=weekly&theme=radical"
-    alt="GitHub Streak" width="60%" />
-</p>
 
----
+## 🌐 Connect With Me
 
-## 🎓 Licenses & Certs
-- Professional Scrum Master I (PSM I)  
-- Professional Scrum Product Owner I (PSPO I)  
-- Unity Essentials Pathway  
-- Xamarin Certified Mobile Developer & Professional  
+- **LinkedIn:** [linkedin.com/in/josepedroleaopereira](https://linkedin.com/in/josepedroleaopereira)
+- **Twitter:** [@z_leao](https://twitter.com/z_leao)
 
----
+## 🎯 Interests
+
+Software architecture • Clean code • Design patterns • .NET innovation • Open source contribution • Mobile development • Agile methodologies
 
 ## 🌊 Outside of Code
 - 🏊‍♂️ Swimmer & water polo player (yes, I still get in the pool weekly!)  
 - 🏃 Trying to turn my running shoes into a habit  
-- 🚴‍♂️ E-bike commuter + beginner triathlon training  
+- 🚴‍♂️ E-bike commuter + beginner triathlon training
 
 ---
 
-## 🌍 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/josepedroleaopereira/)  
-- 🐦 [Twitter](https://twitter.com/z_leao)  
-- ✨ Let’s talk **.NET MAUI**, **Xamarin**, **Azure**, or just nerd out about real-time apps!  
+*I'm passionate about building scalable, maintainable applications and sharing knowledge with the developer community. Always happy to discuss architecture, collaborate on open source, or help solve challenging technical problems!*
