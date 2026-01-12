@@ -31,6 +31,7 @@ Senior .NET Software Engineer with **18+ years** of experience in enterprise sof
 
 ## 🏆 Certifications
 
+- [Github Foundations](https://learn.microsoft.com/api/credentials/share/en-us/zleao3/2EBE9020A559A5F9?sharingId=2CB5037E485C3A9C)
 - Professional Scrum Master (PSM I)
 - Professional Scrum Product Owner (PSPO I)
 - Xamarin Certified Developer
